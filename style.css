@@ -62,7 +62,6 @@ div.big{
 main{
     text-align: center;
     background-color: aqua;
-    height: 70vw;
 }
 .bold ~ div{
     font-size: 1vw;
